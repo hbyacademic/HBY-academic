@@ -6,7 +6,7 @@ My research interests include reversible data hiding, visual cryptography, digit
  
 ## Most viewed and discussed videos
 👉 [OTSU thresholding](https://www.youtube.com/watch?v=Ofi1Fn18YLc): A method for transforming grayscale to binary image.
-
+    [More details about it](http://idiot3838.pixnet.net/blog/post/193557941)
 👉 [Canny edge detection](https://www.youtube.com/watch?v=Ofi1Fn18YLc): A method for edge detection.
     [More details about it](http://idiot3838.pixnet.net/blog/post/194161931)
 
