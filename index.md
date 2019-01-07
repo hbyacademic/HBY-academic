@@ -1,11 +1,6 @@
 ## Biography
 
-Here is HBY, I have learned programming language for about four years.
-What I am most interested in is the topic of Image Processing.
-My graduation special topic is related to Image dealing, so this is why I love it so much!
-Also, I will do some game design and introduce some interesting & informative topic.
-Hope to discuss with me, so that we can make progress consistently from each other.
-
+I'm now a first-year graduate school student in [National Chiao Tung University](https://www.nctu.edu.tw/). I received my B.S. from [National Chi Nan University](https://www.ncnu.edu.tw/ncnuweb/) in Jan 2018.
 👉 [Youtube](https://www.youtube.com/channel/UCmVQun_KSwvPnRBDWSX8gRw/featured)
 👉 [Facebook](https://www.facebook.com/HBY.academic) </p>
  
