@@ -1,6 +1,6 @@
 ## Biography
 
-Here is HBY, I have learned programming language for about four years. </p>
+<p> Here is HBY, I have learned programming language for about four years. </p>
 What I am most interested in is the topic of Image Processing. </p>
 My graduation special topic is related to Image dealing, so this is why I love it so much! </p>
 Also, I will do some game design and introduce some interesting & informative topic. </p>
