@@ -17,5 +17,5 @@ My research interests include reversible data hiding, visual cryptography, digit
 👉 Joy Chang, **Bo-Yuan Huang**, and Justie Juan. [A New Visual Multi-Secrets Sharing Scheme by Random Grids](https://www.mdpi.com/2410-387X/2/3/24). Cryptography, 2018.
 
 ## Experience
-👉 Private Online teaching for P(Processing, for short) language [Know more about this language](https://processing.org/) <br>
-<blockquote>Should you have any question, please contact me via [Facebook](https://www.facebook.com/HBY.academic).</blockquote>
+👉 <pre>Private Online teaching for P(Processing, for short) language [Know more about this language](https://processing.org/) <br>
+        Should you have any question, please contact me via [Facebook](https://www.facebook.com/HBY.academic)</pre>
