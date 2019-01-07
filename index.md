@@ -8,6 +8,7 @@ My research interests include reversible data hiding, visual cryptography, digit
 👉 [OTSU thresholding](https://www.youtube.com/watch?v=Ofi1Fn18YLc): A method for transforming grayscale to binary image.
 
 👉 [Canny edge detection](https://www.youtube.com/watch?v=Ofi1Fn18YLc): A method for edge detection.
+    [More details about it](http://idiot3838.pixnet.net/blog/post/194161931)
 
 ## Recent Publications
 👉 Chen, Ying-Yu, **Bo-Yuan Huang**, and Justie Juan. [A (k, n)-Threshold Progressive Visual Secret Sharing without Expansion](https://www.mdpi.com/2410-387X/2/4/28). Cryptography, 2018.
