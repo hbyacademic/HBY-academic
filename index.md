@@ -1,6 +1,8 @@
 ## Biography
 
-I'm now a first-year graduate school student in [National Chiao Tung University](https://www.nctu.edu.tw/). I received my B.S. from [National Chi Nan University](https://www.ncnu.edu.tw/ncnuweb/) in Jan 2018.
+I'm now a first-year graduate school student in [National Chiao Tung University](https://www.nctu.edu.tw/). I received my B.S. from [National Chi Nan University](https://www.ncnu.edu.tw/ncnuweb/) in Jan 2018. 
+
+My research interests include reversible data hiding, visual cryptography, digital watermarking, and design and analysis of algorithms.
 👉 [Youtube](https://www.youtube.com/channel/UCmVQun_KSwvPnRBDWSX8gRw/featured)
 👉 [Facebook](https://www.facebook.com/HBY.academic) </p>
  
