@@ -12,9 +12,9 @@ My research interests include reversible data hiding, visual cryptography, digit
     [More details about it](http://idiot3838.pixnet.net/blog/post/194161931)
 
 ## Recent Publications
-👉 Chen, Ying-Yu, **Bo-Yuan Huang**, and Justie Juan. [A (k, n)-Threshold Progressive Visual Secret Sharing without Expansion](https://www.mdpi.com/2410-387X/2/4/28). Cryptography, 2018.
+👉 Ying-Yu Chen, **Bo-Yuan Huang**, and Justie Juan. [A (k, n)-Threshold Progressive Visual Secret Sharing without Expansion](https://www.mdpi.com/2410-387X/2/4/28). Cryptography, 2018.
 
-👉 Chang, Joy, **Bo-Yuan Huang**, and Justie Juan. [A New Visual Multi-Secrets Sharing Scheme by Random Grids](https://www.mdpi.com/2410-387X/2/3/24). Cryptography, 2018.
+👉 Joy Chang, **Bo-Yuan Huang**, and Justie Juan. [A New Visual Multi-Secrets Sharing Scheme by Random Grids](https://www.mdpi.com/2410-387X/2/3/24). Cryptography, 2018.
 
 ## Experience
 👉 Online tutorial for P language
