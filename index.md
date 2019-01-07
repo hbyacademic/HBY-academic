@@ -1,10 +1,6 @@
-## Welcome to GitHub Pages
+## Biography
 
-Hi everyone！
-
-Here is HBY, I have learned programming language for about four years. 
-
-What I am most interested in is the topic of Image Processing. My graduation special topic is related to Image dealing, so this is why I love it so much! Also, I will do some simple game design and introduce some interesting & informative topic.
+Here is HBY, I have learned programming language for about four years. What I am most interested in is the topic of Image Processing. My graduation special topic is related to Image dealing, so this is why I love it so much! Also, I will do some simple game design and introduce some interesting & informative topic.
 
 In my channel, you not only can learn coding skills, also you will get more knowledge from it! Hope to discuss with me, so that we can make progress consistently from each other.
 
