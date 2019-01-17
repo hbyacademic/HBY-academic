@@ -19,4 +19,5 @@ My research interests include reversible data hiding, visual cryptography, digit
 
 ## Experience
 👉 Private online teaching for P (Processing) language. Should you have any question, please contact me via [Facebook](https://www.facebook.com/HBY.academic).
-👉 Join **Mdeium Partner Program**.
+
+👉 Join **Mdeium Partner Program**. See more articles on [medium](https://medium.com/@hbyacademic).
