@@ -1,14 +1,14 @@
 ## Biography
 I'm now a first-year graduate student in [National Chiao Tung University](https://www.nctu.edu.tw/). I received my B.S. from [National Chi Nan University](https://www.ncnu.edu.tw/ncnuweb/) in Jan 2018.
 
-My research interests include reversible data hiding, visual cryptography, digital watermarking, and design and analysis of algorithms. From Feb. 2017, I almost every Monday upload one mini project on my [Youtube](https://www.youtube.com/channel/UCmVQun_KSwvPnRBDWSX8gRw/featured) channel where topics including **image processing, game designing, and something interesting & informative**. Also, the entire codes are all put in [Github](https://github.com/hbyacademic), and you can contact me via [Facebook](https://www.facebook.com/HBY.academic).
+My research interests include reversible data hiding, visual cryptography, digital watermarking, and design and analysis of algorithms. From Feb. 2017, I almost every Monday upload one mini project on my [Youtube](https://www.youtube.com/channel/UCmVQun_KSwvPnRBDWSX8gRw/featured) channel where topics including **image processing, game designing, and something interesting & informative**. Also, the entire codes are all put in [Github](https://github.com/hbyacademic), and you can contact me via [Facebook](https://www.facebook.com/HBY.academic). From Jan. 2019, I start writing some articles on [medium](https://medium.com/@hbyacademic).
  
 ## Most viewed and discussed videos
 👉 [OTSU thresholding](https://www.youtube.com/watch?v=Ofi1Fn18YLc): A method for transforming grayscale to binary image.
-    [More details](http://idiot3838.pixnet.net/blog/post/193557941)
+    [More details(Chinese)](http://idiot3838.pixnet.net/blog/post/193557941)
     
 👉 [Canny edge detection](https://www.youtube.com/watch?v=PtSgA19sC5g): A method for edge detection.
-    [More details](http://idiot3838.pixnet.net/blog/post/194161931)
+    [More details(Chinese)](http://idiot3838.pixnet.net/blog/post/194161931) [More details(English)](https://medium.com/@hbyacademic/canny-edge-detection-54bd845940c3)
 
 ## Recent Publications
 👉 Ying-Yu Chen, **Bo-Yuan Huang**, and Justie Juan. [A (k,n)-Threshold Progressive Visual Secret Sharing without Expansion](https://www.mdpi.com/2410-387X/2/4/28). Cryptography, 2018.
