@@ -8,7 +8,7 @@ My research interests include reversible data hiding, visual cryptography, digit
     [More details(Chinese)](http://idiot3838.pixnet.net/blog/post/193557941)
     
 👉 [Canny edge detection](https://www.youtube.com/watch?v=PtSgA19sC5g): A method for edge detection.
-    [More details(Chinese)](http://idiot3838.pixnet.net/blog/post/194161931) [More details(English)](https://medium.com/@hbyacademic/canny-edge-detection-54bd845940c3)
+    [More details(Chinese)](http://idiot3838.pixnet.net/blog/post/194161931); [More details(English)](https://medium.com/@hbyacademic/canny-edge-detection-54bd845940c3)
 
 ## Recent Publications
 👉 Ying-Yu Chen, **Bo-Yuan Huang**, and Justie Juan. [A (k,n)-Threshold Progressive Visual Secret Sharing without Expansion](https://www.mdpi.com/2410-387X/2/4/28). Cryptography, 2018.
