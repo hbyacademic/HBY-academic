@@ -11,11 +11,11 @@ My research interests include reversible data hiding, visual cryptography, digit
     [More details(Chinese)](http://idiot3838.pixnet.net/blog/post/194161931); [More details(English)](https://medium.com/@hbyacademic/canny-edge-detection-54bd845940c3)
 
 ## Recent Publications
-👉 Ying-Yu Chen, **Bo-Yuan Huang**, and Justie Juan. [A (k,n)-Threshold Progressive Visual Secret Sharing without Expansion](https://www.mdpi.com/2410-387X/2/4/28). Cryptography, 2018.
+👉 Ying-Yu Chen, **Bo-Yuan Huang**, and Justie Su-Tzu Juan. [A (k,n)-Threshold Progressive Visual Secret Sharing without Expansion](https://www.mdpi.com/2410-387X/2/4/28). Cryptography, 2018.
 
-👉 Joy Chang, **Bo-Yuan Huang**, and Justie Juan. [A New Visual Multi-Secrets Sharing Scheme by Random Grids](https://www.mdpi.com/2410-387X/2/3/24). Cryptography, 2018.
+👉 Joy Jo-Yi Chang, **Bo-Yuan Huang**, and Justie Su-Tzu Juan. [A New Visual Multi-Secrets Sharing Scheme by Random Grids](https://www.mdpi.com/2410-387X/2/3/24). Cryptography, 2018.
 
-👉 **Bo-Yuan Huang**, and Justie Juan. A Meaningful Visual Multi-Secrets Sharing Scheme by Random Grids. In Proceedings of Global Conference on Engineering and Applied Science, Okinawa, Japan, 25-27 July, 2017. [my close-up photo in conference](https://www.facebook.com/higher.education.forum/photos/a.1557668754257321/1557675207590009/?type=3&theater)
+👉 **Bo-Yuan Huang**, and Justie Su-Tzu Juan. A Meaningful Visual Multi-Secrets Sharing Scheme by Random Grids. In Proceedings of Global Conference on Engineering and Applied Science, Okinawa, Japan, 25-27 July, 2017. [my close-up photo in conference](https://www.facebook.com/higher.education.forum/photos/a.1557668754257321/1557675207590009/?type=3&theater)
 
 ## Experience
 👉 Private online teaching for P (Processing) language. Should you have any question, please contact me via [Facebook](https://www.facebook.com/HBY.academic).
