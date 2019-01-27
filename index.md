@@ -5,10 +5,17 @@ My research interests include reversible data hiding, visual cryptography, digit
  
 ## Most viewed and discussed videos
 👉 [Otsu thresholding](https://www.youtube.com/watch?v=Ofi1Fn18YLc): A method for transforming grayscale to binary image.
-    [More details(Chinese)](http://idiot3838.pixnet.net/blog/post/193557941); [More details(English)]( https://link.medium.com/IvqrqzCfBT)
+    [More details(Chinese)](http://idiot3838.pixnet.net/blog/post/193557941)
     
 👉 [Canny edge detection](https://www.youtube.com/watch?v=PtSgA19sC5g): A method for edge detection.
-    [More details(Chinese)](http://idiot3838.pixnet.net/blog/post/194161931); [More details(English)](https://medium.com/@hbyacademic/canny-edge-detection-54bd845940c3)
+    [More details(Chinese)](http://idiot3838.pixnet.net/blog/post/194161931)
+    
+## Featured Articles
+👉 [Canny Edge Detection](https://link.medium.com/m5NWuctkPT)
+
+👉 [Otsu thresholding-image binarization](https://link.medium.com/mbpzQNCkPT)
+
+👉 [Morphological image processing](https://link.medium.com/I9R0YPIkPT)
 
 ## Recent Publications
 👉 Ying-Yu Chen, **Bo-Yuan Huang**, and Justie Su-Tzu Juan. [A (k,n)-Threshold Progressive Visual Secret Sharing without Expansion](https://www.mdpi.com/2410-387X/2/4/28). Cryptography, 2018.
