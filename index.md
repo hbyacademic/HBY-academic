@@ -11,11 +11,11 @@ My research interests include reversible data hiding, visual cryptography, digit
     [More details(Chinese)](http://idiot3838.pixnet.net/blog/post/194161931)
     
 ## Featured Articles on Medium
-👉 [Canny Edge Detection](https://link.medium.com/m5NWuctkPT)
+👉 [Canny Edge Detection](https://link.medium.com/m5NWuctkPT) (read ratio: 59%)
 
-👉 [Otsu thresholding-image binarization](https://link.medium.com/mbpzQNCkPT)
+👉 [Otsu thresholding-image binarization](https://link.medium.com/mbpzQNCkPT) (read rtaio: 58%)
 
-👉 [Morphological image processing](https://link.medium.com/I9R0YPIkPT)
+👉 [Morphological image processing](https://link.medium.com/I9R0YPIkPT) (read ratio: 67%)
 
 ## Recent Publications
 👉 Ying-Yu Chen, **Bo-Yuan Huang**, and Justie Su-Tzu Juan. [A (k,n)-Threshold Progressive Visual Secret Sharing without Expansion](https://www.mdpi.com/2410-387X/2/4/28). Cryptography, 2018.
