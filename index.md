@@ -10,7 +10,7 @@ My research interests include reversible data hiding, visual cryptography, digit
 👉 [Canny edge detection](https://www.youtube.com/watch?v=PtSgA19sC5g): A method for edge detection.
     [More details(Chinese)](http://idiot3838.pixnet.net/blog/post/194161931)
     
-## Featured Articles
+## Featured Articles on Medium
 👉 [Canny Edge Detection](https://link.medium.com/m5NWuctkPT)
 
 👉 [Otsu thresholding-image binarization](https://link.medium.com/mbpzQNCkPT)
