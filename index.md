@@ -3,7 +3,7 @@ I'm now a first-year graduate student in [National Chiao Tung University](https:
 
 My research interests include reversible data hiding, visual cryptography, digital watermarking, and design and analysis of algorithms.
 
-From Feb. 2017, I upload my mini projects to my [Youtube](https://www.youtube.com/channel/UCmVQun_KSwvPnRBDWSX8gRw/featured) channel where topics including **image processing, game designing, and something interesting & informative**. Also, the entire codes are all put in [Github](https://github.com/hbyacademic), and you can contact me via [Facebook](https://www.facebook.com/HBY.academic). 
+From Feb. 2017, I upload my mini projects to my [Youtube](https://www.youtube.com/channel/UCmVQun_KSwvPnRBDWSX8gRw/featured) channel where topics including **image processing, game designing, and something interesting & informative**. The entire codes are all put in [Github](https://github.com/hbyacademic).  
 
 From Jan. 2019, I start writing some articles on [medium](https://medium.com/@hbyacademic).
  
