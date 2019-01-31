@@ -8,10 +8,10 @@ From Feb. 2017, I upload my mini projects to my [Youtube](https://www.youtube.co
 From Jan. 2019, I start writing some articles on [medium](https://medium.com/@hbyacademic).
  
 ## Most Viewed and Discussed Videos 👑🏅 🏃🏆
-👉 [Otsu thresholding](https://www.youtube.com/watch?v=Ofi1Fn18YLc): A method for transforming grayscale to binary image.
+👉🏃 [Otsu thresholding](https://www.youtube.com/watch?v=Ofi1Fn18YLc): A method for transforming grayscale to binary image.
     [More details(Chinese)](http://idiot3838.pixnet.net/blog/post/193557941)
     
-👉 [Canny edge detection](https://www.youtube.com/watch?v=PtSgA19sC5g): A method for edge detection.
+👉🏃 [Canny edge detection](https://www.youtube.com/watch?v=PtSgA19sC5g): A method for edge detection.
     [More details(Chinese)](http://idiot3838.pixnet.net/blog/post/194161931)
     
 ## Featured Articles on Medium
