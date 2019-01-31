@@ -1,11 +1,11 @@
 ## Biography 🏃
-I'm now a first-year graduate student in [National Chiao Tung University](https://www.nctu.edu.tw/). I received my B.S. from [National Chi Nan University](https://www.ncnu.edu.tw/ncnuweb/) in Jan 2018.
+I'm now a first-year graduate student in [National Chiao Tung University](https://www.nctu.edu.tw/). I received my B.S. from [National Chi Nan University](https://www.ncnu.edu.tw/ncnuweb/) in Jan. 2018.
 
 My research interests include reversible data hiding, visual cryptography, digital watermarking, and design and analysis of algorithms.
 
-From Feb. 2017, I upload my mini projects to my [Youtube](https://www.youtube.com/channel/UCmVQun_KSwvPnRBDWSX8gRw/featured) channel where topics including **image processing, game designing, and something interesting & informative**. The entire codes are all put in [Github](https://github.com/hbyacademic).  
+Since Feb. 2017, I have uploaded my mini projects to my [Youtube](https://www.youtube.com/channel/UCmVQun_KSwvPnRBDWSX8gRw/featured) channel per week, where topics including **image processing, game designing, and something interesting & informative**. The entire codes are all put in [Github](https://github.com/hbyacademic).  
 
-From Jan. 2019, I start writing some articles on [medium](https://medium.com/@hbyacademic).
+Since Jan. 2019, I have written articles on [medium](https://medium.com/@hbyacademic).
  
 ## Most Viewed & Discussed Videos 🏆
 1. [Otsu thresholding](https://www.youtube.com/watch?v=Ofi1Fn18YLc): A method for transforming grayscale to binary image.
