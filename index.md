@@ -22,11 +22,11 @@ Since Jan. 2019, I have written articles on [medium](https://medium.com/@hbyacad
 3. [Morphological image processing](https://link.medium.com/I9R0YPIkPT) (read ratio: 67%)
 
 ## Android Game Design 🎰
-1. Gomoku game [Gomoku](https://www.youtube.com/watch?v=txSBV9NB2jY&list=PLrJ7yjuOYajyP0xfXO_o5Yeg5oD166rHy&index=2). If you are interested, please [click for Free Download](https://drive.google.com/file/d/1hlP6hGWQr4xCbWzoDb1qyCyaR0A1jN_L/view?usp=drivesdk&fbclid=IwAR0duTs0Jfvd7oOs42axEvpj5Im-CM0x7eMwGX9kPpE4gnwpW4WwNRK1BSU).
+1. Gomoku game - [Gomoku](https://www.youtube.com/watch?v=txSBV9NB2jY&list=PLrJ7yjuOYajyP0xfXO_o5Yeg5oD166rHy&index=2). If you are interested, please [click for Free Download](https://drive.google.com/file/d/1hlP6hGWQr4xCbWzoDb1qyCyaR0A1jN_L/view?usp=drivesdk&fbclid=IwAR0duTs0Jfvd7oOs42axEvpj5Im-CM0x7eMwGX9kPpE4gnwpW4WwNRK1BSU).
 
-2. Tiles stacking game [Ten10](https://www.youtube.com/watch?v=-c3Kcaj54Ik&list=PLrJ7yjuOYajyP0xfXO_o5Yeg5oD166rHy&index=1) (Take the idea from [here](http://twenty.frenchguys.net/), and make a different version.) If you are interested, please [click for Free Download](https://drive.google.com/file/d/1jQRHxUpcWNspix_fs3SknCq02-IrjFMg/view?fbclid=IwAR2jkrvg2wLUjjrJ6wgndkns92t5_6lz7U4-9z_iWoFpWIDbQavTKagAXuk).
+2. Tiles stacking game - [Ten10](https://www.youtube.com/watch?v=-c3Kcaj54Ik&list=PLrJ7yjuOYajyP0xfXO_o5Yeg5oD166rHy&index=1) (Take the idea [here](http://twenty.frenchguys.net/), and make a simple version.) If you are interested, please [click for Free Download](https://drive.google.com/file/d/1jQRHxUpcWNspix_fs3SknCq02-IrjFMg/view?fbclid=IwAR2jkrvg2wLUjjrJ6wgndkns92t5_6lz7U4-9z_iWoFpWIDbQavTKagAXuk).
 
-3. Pin circle game (Take the idea from [here](https://m.apkpure.com/pin-circle/com.litegames.aa), and make a different version.) If you are interested, please [click for Free Download](https://drive.google.com/file/d/1CuMQdfsBlyNRW_wOE6RycvTYXjonxpDB/view?usp=drivesdk).
+3. Pin circle game (Take the idea from [here](https://m.apkpure.com/pin-circle/com.litegames.aa), and make a simple version.) If you are interested, please [click for Free Download](https://drive.google.com/file/d/1CuMQdfsBlyNRW_wOE6RycvTYXjonxpDB/view?usp=drivesdk).
 
 ## Recent Publications 📚
 1. Chen, Y. Y., **Huang, B. Y.**, & Juan, J. (2018). [A (k, n)-Threshold Progressive Visual Secret Sharing without Expansion. Cryptography, 2(4), 28.](https://www.mdpi.com/2410-387X/2/4/28). 
