@@ -15,7 +15,7 @@ Since Jan. 2019, I have written articles on [medium](https://medium.com/@hbyacad
     [More details(Chinese)](http://idiot3838.pixnet.net/blog/post/194161931)
     
 ## Featured Articles on Medium 📝
-1. [Canny Edge Detection](https://link.medium.com/m5NWuctkPT) (read ratio: 59%)
+1. [Canny Edge Detection](https://link.medium.com/m5NWuctkPT) (read ratio: 61%)
 
 2. [Otsu thresholding-image binarization](https://link.medium.com/mbpzQNCkPT) (read rtaio: 58%)
 
