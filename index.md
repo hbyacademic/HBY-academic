@@ -17,7 +17,7 @@ Since Jan. 2019, I have written articles on [medium](https://medium.com/@hbyacad
 ## Featured Articles on Medium 📝
 1. [Canny Edge Detection](https://link.medium.com/m5NWuctkPT) (read ratio: 61%)
 
-2. [Otsu thresholding-image binarization](https://link.medium.com/mbpzQNCkPT) (read rtaio: 58%)
+2. [Otsu thresholding-image binarization](https://link.medium.com/mbpzQNCkPT) (read ratio: 58%)
 
 3. [Morphological image processing](https://link.medium.com/I9R0YPIkPT) (read ratio: 67%)
 
@@ -38,4 +38,4 @@ Since Jan. 2019, I have written articles on [medium](https://medium.com/@hbyacad
 ## Experience 🔍
 1. Private online teaching for P (Processing) language. Should you have any question, please contact me via [Facebook](https://www.facebook.com/HBY.academic).
 
-2. Join **Mdeium Partner Program**. See more articles on [medium](https://medium.com/@hbyacademic).
+2. Join **Medium Partner Program**. See more articles on [medium](https://medium.com/@hbyacademic).
