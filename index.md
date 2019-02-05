@@ -26,12 +26,12 @@ Since Jan. 2019, I have written articles on [medium](https://medium.com/@hbyacad
 
 2. Tiles stacking game - [Ten10](https://www.youtube.com/watch?v=-c3Kcaj54Ik&list=PLrJ7yjuOYajyP0xfXO_o5Yeg5oD166rHy&index=1) (Take the idea [here](http://twenty.frenchguys.net/), and make a simple version.) If you are interested, please [click for Free Download](https://drive.google.com/file/d/1jQRHxUpcWNspix_fs3SknCq02-IrjFMg/view?fbclid=IwAR2jkrvg2wLUjjrJ6wgndkns92t5_6lz7U4-9z_iWoFpWIDbQavTKagAXuk).
 
-3. Pin circle game (Take the idea from [here](https://m.apkpure.com/pin-circle/com.litegames.aa), and make a simple version.) If you are interested, please [click for Free Download](https://drive.google.com/file/d/1CuMQdfsBlyNRW_wOE6RycvTYXjonxpDB/view?usp=drivesdk).
+3. Pin circle game (Take the idea from [here](https://m.apkpure.com/pin-circle/com.litegames.aa), and make a simple version.) If you are interested, please [click for Free Download(https://drive.google.com/file/d/1Weo9Gd6VaTQPfDbdI2TAYokygj6gnUVT/view?usp=drivesdk).
 
 ## Recent Publications 📚
-1. Chen, Y. Y., **Huang, B. Y.**, & Juan, J. (2018). [A (k, n)-Threshold Progressive Visual Secret Sharing without Expansion. Cryptography, 2(4), 28.](https://www.mdpi.com/2410-387X/2/4/28). 
+1. Chen, Y. Y., **Huang, B. Y.**, & Juan, J. (2018). [A (k, n)-Threshold Progressive Visual Secret Sharing without Expansion. Cryptography, 2(4), 28.](https://www.mdpi.com/2410-387X/2/4/28)
 
-2. Chang, J., **Huang, B. Y.**, & Juan, J. (2018). [A New Visual Multi-Secrets Sharing Scheme by Random Grids. Cryptography, 2(3), 24.](https://www.mdpi.com/2410-387X/2/3/24). Cryptography, 2018.
+2. Chang, J., **Huang, B. Y.**, & Juan, J. (2018). [A New Visual Multi-Secrets Sharing Scheme by Random Grids. Cryptography, 2(3), 24.](https://www.mdpi.com/2410-387X/2/3/24)
 
 3. **Huang, B. Y.**, & Juan, J. A Meaningful Visual Multi-Secrets Sharing Scheme by Random Grids. In Proceedings of Global Conference on Engineering and Applied Science, Okinawa, Japan, 25-27 July, 2017. [my close-up photo in conference](https://www.facebook.com/higher.education.forum/photos/a.1557668754257321/1557675207590009/?type=3&theater)
 
