@@ -26,7 +26,7 @@ Since Jan. 2019, I have written articles on [medium](https://medium.com/@hbyacad
 
 2. Tiles stacking game - [Ten10](https://www.youtube.com/watch?v=-c3Kcaj54Ik&list=PLrJ7yjuOYajyP0xfXO_o5Yeg5oD166rHy&index=1) (Take the idea [here](http://twenty.frenchguys.net/), and make a simple version.) If you are interested, please [click for Free Download](https://drive.google.com/file/d/1jQRHxUpcWNspix_fs3SknCq02-IrjFMg/view?fbclid=IwAR2jkrvg2wLUjjrJ6wgndkns92t5_6lz7U4-9z_iWoFpWIDbQavTKagAXuk).
 
-3. Pin circle game (Take the idea from [here](https://m.apkpure.com/pin-circle/com.litegames.aa), and make a simple version.) If you are interested, please [click for Free Download](https://drive.google.com/file/d/1Weo9Gd6VaTQPfDbdI2TAYokygj6gnUVT/view?usp=drivesdk).
+3. Pin circle game - [Nodes2.0](https://www.youtube.com/watch?v=lVMKEyO-cZs&list=PLrJ7yjuOYajyP0xfXO_o5Yeg5oD166rHy) (Take the idea from [here](https://m.apkpure.com/pin-circle/com.litegames.aa), and make a simple version.) If you are interested, please [click for Free Download](https://drive.google.com/file/d/1Weo9Gd6VaTQPfDbdI2TAYokygj6gnUVT/view?usp=drivesdk).
 
 ## Recent Publications 📚
 1. Chen, Y. Y., **Huang, B. Y.**, & Juan, J. (2018). [A (k, n)-Threshold Progressive Visual Secret Sharing without Expansion.](https://www.mdpi.com/2410-387X/2/4/28)Cryptography, 2(4), 28.
